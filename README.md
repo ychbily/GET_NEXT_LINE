@@ -34,6 +34,7 @@ git clone https://github.com/ychbily/GET_NEXT_LINE.git
 #include "get_next_line.h"
 ```
 **3. Compile your project with the get_next_line.c file.**
+
 **4. Call the get_next_line function in your code to read lines from file descriptors.**
 
 ## Contributing
