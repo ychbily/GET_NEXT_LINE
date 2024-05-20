@@ -24,16 +24,17 @@ GET_NEXT_LINE is a simple function developed as part of the curriculum at 42 Sch
 
 ## Usage
 
-1. Clone the repository:
+**1. Clone the repository:**
 
 ```bash
 git clone https://github.com/ychbily/GET_NEXT_LINE.git
 ```
-2. Include the get_next_line.h in your project:
-```bash
+**2. Include the get_next_line.h in your project:**
+```c
 #include "get_next_line.h"
 ```
-3. Call the get_next_line function in your code to read lines from file descriptors.
+**3. Compile your project with the get_next_line.c file.**
+**4. Call the get_next_line function in your code to read lines from file descriptors.**
 
 ## Contributing
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
