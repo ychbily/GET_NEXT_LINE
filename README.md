@@ -40,4 +40,4 @@ git clone https://github.com/ychbily/GET_NEXT_LINE.git
 ## Contributing
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 ## Acknowledgments
-Completed as part of the curriculum at [1337 School](https://1337.ma/) in Khouribga, Morocco, achieving a perfect score of 112/125.
+Completed as part of the curriculum at [1337 School](https://1337.ma/) in Khouribga, Morocco, achieving a score of 112/125.
